@@ -1,0 +1,24 @@
+.buttonContainer {
+  width: 100%;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+button {
+  padding: 10px;
+  border-radius: 5px;
+  border: 0;
+  background-color: #d5d5d5;
+}
+
+button:hover {
+  background-color: black;
+  color: white;
+  transition: 0.7s;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+}
